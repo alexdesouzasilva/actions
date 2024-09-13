@@ -1,6 +1,7 @@
 const core = require('@actions/core');
 const github = require("@actions/github")
 
+console.log("Iniciando processo...")
 try {
     const name = core.getInput('name');
     console.log(`Hello ${name}!`);
