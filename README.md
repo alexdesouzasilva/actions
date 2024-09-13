@@ -18,7 +18,7 @@ The message we greeted you.
 ## Exemplo usage
 
 ```yaml
-uses: actions/actions@v1.0.0
+uses: alexdesouzasilva/actions@v1.0.0
 with:
     name: 'Alex'
 ```
